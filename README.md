@@ -1,0 +1,2 @@
+# hellogourang.c
+name print
